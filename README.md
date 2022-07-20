@@ -24,3 +24,5 @@ Ikony flag autorstwa Freepik
 Szablon klasy parsera XML autorstwa Archana Choudary
 
 https://doraprojects.net/questions/7704827/java-reading-xml-file
+
+Sposób uruchamiania: Standardowy, zgodnie w z wytycznymi, program wymaga pliku xml w katalogu roboczym, przyjmowane są wartości z kropką.
