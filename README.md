@@ -22,3 +22,5 @@ Kalkulator powinien przyjmować kwotę w EUR i docelową walutę, zwracać kwot�
 Wykorzystane materiały zewnętrzne:
 Ikony flag autorstwa Freepik
 Szablon klasy parsera XML autorstwa Archana Choudary
+
+https://doraprojects.net/questions/7704827/java-reading-xml-file
