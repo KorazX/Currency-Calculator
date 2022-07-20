@@ -19,10 +19,15 @@ Należy napisać parser pliku z kursami walut (dopuszczalne jest użycie bibliot
 Kalkulator powinien przyjmować kwotę w EUR i docelową walutę, zwracać kwotę w docelowej walucie.
 
 
+### Wykonanie
+
+Zgodnie z zaleceniami program napisałem w języku Java pod JDK 1.8
+
+Sposób uruchamiania: Standardowy. Zgodnie z wytycznymi program ładuje dane z pliku XML z katalogu roboczego.
+
+W polu tekstowym wartości niecałkowite należy wpisywać z kropką.
+
 Wykorzystane materiały zewnętrzne:
-Ikony flag autorstwa Freepik
-Szablon klasy parsera XML autorstwa Archana Choudary
-
+-Ikony flag autorstwa Freepik
+-Szablon klasy parsera XML na którym bazowałem:
 https://doraprojects.net/questions/7704827/java-reading-xml-file
-
-Sposób uruchamiania: Standardowy, zgodnie w z wytycznymi, program wymaga pliku xml w katalogu roboczym, przyjmowane są wartości z kropką.
