@@ -31,3 +31,5 @@ Wykorzystane materiały zewnętrzne:
 -Ikony flag autorstwa Freepik  
 -Szablon klasy parsera XML na którym bazowałem:  
 https://doraprojects.net/questions/7704827/java-reading-xml-file
+
+![image](image.png)
